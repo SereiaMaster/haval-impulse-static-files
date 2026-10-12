@@ -1,5 +1,12 @@
 [
   {
+    "appName": "GWM Theme Store",
+    "appVersion": "2.0.34",
+    "appPackageName": "com.gwm.app.themestore",
+    "appLink": "https://raw.githubusercontent.com/SereiaMaster/haval-impulse-static-files/main/apps/com.gwm.app.themestore-2.0.34.apk",
+    "appIcon": ""
+  },
+  {
     "appName": "MicroG ReVanced",
     "appVersion": "0.3.13.2.250932",
     "appPackageName": "app.revanced.android.gms",
